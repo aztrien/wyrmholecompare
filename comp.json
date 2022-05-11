@@ -98,7 +98,7 @@
           },
           {
             "$type": "WaitEvent",
-            "timeToWait": 13.0
+            "timeToWait": 11.5
           },
           {
             "$type": "ExecuteRandomEvents",
